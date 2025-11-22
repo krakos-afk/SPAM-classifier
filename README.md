@@ -43,17 +43,6 @@ This project uses BERT (Bidirectional Encoder Representations from Transformers)
 3. Run the notebook cells to train the classifier.
 4. Use the trained model to classify new messages.
 
-## Project Structure
-
-```
-SPAM-classifier/
-├── notebooks/
-│   └── spam_classifier.ipynb
-├── data/
-│   └── [your dataset files]
-├── README.md
-└── requirements.txt
-```
 
 ## License
 
