@@ -21,7 +21,7 @@ This project uses BERT (Bidirectional Encoder Representations from Transformers)
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/hiki-uwu/SPAM-classifier.git
+   git clone https://github.com/krakos-afk/SPAM-classifier.git
    cd SPAM-classifier
    ```
 
